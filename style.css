@@ -1,0 +1,14 @@
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-family: cursive;
+}
+
+select{
+    width: 150px;
+}
